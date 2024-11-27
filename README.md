@@ -1,2 +1,2 @@
-# cafeyugen
- it is a website
+# CafeYugen
+ It is a website.
